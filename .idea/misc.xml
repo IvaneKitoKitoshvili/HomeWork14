@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Tbc Android Homeworks/HomeWork14/app/src/main/res/layout/fragment_building.xml" value="0.10764944275582573" />
+        <entry key="..\:/Tbc Android Homeworks/HomeWork14/app/src/main/res/layout/activity_main.xml" value="0.14175724637681159" />
+        <entry key="..\:/Tbc Android Homeworks/HomeWork14/app/src/main/res/layout/building_item.xml" value="0.14175724637681159" />
+        <entry key="..\:/Tbc Android Homeworks/HomeWork14/app/src/main/res/layout/fragment_building.xml" value="0.165" />
       </map>
     </option>
   </component>
